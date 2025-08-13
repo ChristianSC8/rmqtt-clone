@@ -1,3 +1,8 @@
+## Nota
+Este repositorio es un clon del proyecto original [rmqtt](https://github.com/rmqtt/rmqtt), distribuido bajo Licencia MIT.
+Su propósito es únicamente para estudio y pruebas personales.
+
+
 # RMQTT Broker
 
 [![GitHub Release](https://img.shields.io/github/release/rmqtt/rmqtt?color=brightgreen)](https://github.com/rmqtt/rmqtt/releases)
